@@ -3,7 +3,7 @@ You ever start a project and realize you're doing the same thing over and over? 
 
 So, I built front-end boilerplates. Instead of repeating myself, I broke everything into reusable components. Think of it like Lego pieces—structured using BEM or Bootstrap naming.
 
-Then, my projects are scalable, easier to maintain, and, best of all, teamwork-friendly. Anyone can jump in without the usual mess.
+Then, my projects were scalable, easier to maintain, and, best of all, teamwork-friendly. Anyone can jump in without the usual mess.
 
 Simple idea, big impact. Because working smarter beats working harder every time.
 
