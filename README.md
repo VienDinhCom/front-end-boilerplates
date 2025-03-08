@@ -1,7 +1,11 @@
-# psd2html
-Using Gulp, Twig, SCSS, v.Nu, Stylelint, and Eslint for building web templates.
+# Front-end Boilerplates
+You ever start a project and realize you're doing the same thing over and over? Yeah, that was me, converting designs into HTML, CSS, and jQuery. It got tedious—fast.
 
-Hit the **Star** button if you love this project ⭐️
+So, I built front-end boilerplates. Instead of repeating myself, I broke everything into reusable components. Think of it like Lego pieces—structured using BEM or Bootstrap naming.
+
+Then, my projects are scalable, easier to maintain, and, best of all, teamwork-friendly. Anyone can jump in without the usual mess.
+
+Simple idea, big impact. Because working smarter beats working harder every time.
 
 ## Versions
 * [Version 1: Using Grunt, LESS, and SSI for building templates.](https://github.com/Maxvien/psd2html/tree/v1)
