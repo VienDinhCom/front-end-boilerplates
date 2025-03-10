@@ -1,4 +1,4 @@
-# Front-end Boilerplates
+# Front End Boilerplates
 You ever start a project and realize you're doing the same thing over and over? Yeah, that was me, converting designs into HTML, CSS, and jQuery. It got tedious—fast.
 
 So, I built front-end boilerplates. Instead of repeating myself, I broke everything into reusable components. Think of it like Lego pieces—structured using BEM or Bootstrap naming.
